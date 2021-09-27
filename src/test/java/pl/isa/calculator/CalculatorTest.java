@@ -20,7 +20,7 @@ class CalculatorTest {
 
     @Test
     void shouldMultiplyTwoInts() {
-        assertEquals(14, sut.mul(3, 4));
+        assertEquals(12, sut.mul(3, 4));
     }
 
     @Test
